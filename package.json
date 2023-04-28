@@ -1,18 +1,30 @@
 {
-  "name": "team-builder",
+  "name": "object-oriented",
   "version": "1.0.0",
-  "description": "A tool for building a team",
+  "description": "SVG-logo",
   "main": "index.js",
+  "directories": {
+    "example": "examples",
+    "lib": "lib"
+  },
   "scripts": {
-    "start": "app.js"
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CJB14/object-oriented.git"
   },
   "keywords": [
-    "team",
-    "builder"
+    "challenge",
+    "10"
   ],
-  "author": "Your Name",
-  "license": "ISC",
+  "author": "Cam B",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/CJB14/object-oriented/issues"
+  },
+  "homepage": "https://github.com/CJB14/object-oriented#readme",
   "dependencies": {
-    "inquirer": "^8.1.2"
+    "inquirer": "^8.2.5"
   }
 }
