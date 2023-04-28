@@ -27,3 +27,4 @@ WHEN I open the `logo.svg` file in a browser
 THEN I am shown a 300x200 pixel image that matches the criteria I entered
 
 # photo 
+<img width="1680" alt="Screenshot 2023-04-27 at 11 11 41 PM" src="https://user-images.githubusercontent.com/119978168/235047519-91f34979-10b2-4888-aa39-e215e9609594.png">
